@@ -6,37 +6,51 @@ A collection of the most common English idioms with their related Italian and Sp
 
 This is what has been collected so far:
 
-| Engish                                          | Italian                                   | Spanish                     |
-| ------                                          | ------                                    | ------                      |
-| 24/7                                            | Tutto il tempo                            | Todo el tiempo              |
-| A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva   |
-| Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego         |
-| By the skin of your teeth                       | Per il rotto della cuffia, per un pelo    | Por un pelo                 |
-| Butterflies in the stomach                      | Essere nervoso                            | Estar nervioso              |
-| Cat got your tongue?                            | Hai perso la lingua?                      | ¿Te ha comido la lengua el gato? |
-| Crying wolf                                     | Gridare al lupo al lupo                   | Gritar lobo, alarmista      |
-| Cut to the chase!                               | Vai dritto al punto!                      | ¡Ve directo al grano!       |
-| Cut [sb] some slack                             | Essere tollerante                         | No ser tan duro con         |
-| Dig it                                          | Capisco, approvo, mi piace                | Entiendo                    |
-| Distracted by another bird                      | Preso da altro                            | Distraído por otra cosa     |
-| Double-edged sword                              | Lama a doppio taglio                      | Arma de doble filo          |
-| Down for the count                              | Lasciar perdere, stanco                   | Cansado                     |
+| Engish                                          | Italian                                   | Spanish                              |
+| ------                                          | ------                                    | ------                               |
+| 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
+| A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
+| Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego                  |
+| By the skin of your teeth                       | Per il rotto della cuffia, per un pelo    | Por un pelo                          |
+| Butterflies in the stomach                      | Essere nervoso                            | Estar nervioso                       |
+| Cat got your tongue?                            | Il gatto ti ha mangiato la lingua?        | ¿Te ha comido la lengua el gato?     |
+| Crying wolf                                     | Gridare al lupo al lupo                   | Gritar lobo, alarmista               |
+| Cut to the chase!                               | Vai dritto al punto!                      | ¡Ve directo al grano!                |
+| Cut [sb] some slack                             | Essere tollerante                         | No ser tan duro con                  |
+| Dig it                                          | Capisco, approvo, mi piace                | Entiendo                             |
+| Distracted by another bird                      | Preso da altro                            | Distraído por otra cosa              |
+| Double-edged sword                              | Lama a doppio taglio                      | Arma de doble filo                   |
+| Down for the count                              | Lasciar perdere, stanco                   | Cansado                              |
+| Draw a blank                                    | Fare un buco nell'acqua, non ricordarsi   | No obtener resultado, quedarse en blanco |
 | Draw the line in the sand / at [sth]            | Prefiggersi di non fare, mettere paletti  | Poner límites, trazar una raya en la arena |
-| Everything comes with a price                   | Tutto ha un prezzo                        | Todo tiene un precio        |
-| Fair enough                                     | Ragionabile, vabbé, e sia                 | Está bien, me parece justo  |
-| For old times' sake                             | In onore dei vecchi tempi                 | Por los viejos tiempos      |
-| Free as the wind                                | Libero come il vento                      | Libre como el viento        |
-| Give [sb] a taste of his/her/their own medicine | Ripagare con la stessa moneta             | Dar una dosis de su propia medicina |
-| Have a short fuse                               | Essere irascibile, suscettibile           | Tener la mecha corta        |
-| Muddy the waters                                | Confondere le acque                       | Confundir las aguas         |
-| Pardon my French                                | Perdona il francesismo                    | Con perdón de la expresión  |
-| Per se                                          | In sé, di per sé                          | En sí mismo, per se         |
-| Rule of thumb                                   | Regola generale                           | Regla de oro                |
-| Rumour has it                                   | Gira voce che                             | Los rumores dicen que       |
-| String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando    |
-| Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis   |
-| Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo           |
-| Work [st] around                                | Aggirare il problema, bypassare           | Resolver, esquivar          |
+| Easier said than done                           | Più facile a dirsi che a farsi            | Del dicho al hecho hay un largo trecho |
+| Every cloud has a silver lining                 | C'è sempre un lato positivo               | No hay mal que por bien no venga     |
+| Everything comes with a price                   | Tutto ha un prezzo                        | Todo tiene un precio                 |
+| Fair enough                                     | Ragionabile, vabbé, e sia                 | Está bien, me parece justo           |
+| Finding a needle in a haystack                  | Cercare un ago in un pagliaio             | Encontrar una aguja en un pajar      |
+| Fish out of water                               | Pesce fuor d'acqua                        | Pez fuera del agua                   |
+| For old times' sake                             | In onore dei vecchi tempi                 | Por los viejos tiempos               |
+| Free as the wind                                | Libero come il vento                      | Libre como el viento                 |
+| Get [sth] off your chest                        | Sputare il rospo, confessare              | Desahogarse, sacarse algo de encima  |
+| Give [sb] a taste of his/her/their own medicine | Ripagare con la stessa moneta             | Dar una dosis de su propia medicina  |
+| Give [sth] a whirl                              | Provare, dare una chance                  | Probar, intentar                     |
+| Go down / up in flames                          | Fallire miseramente, andare in fumo       | Fallar miserablemente, hacerse cenizas |
+| Go the extra mile                               | Fare un ultimo sforzo                     | Romperse el lomo, esforzarse a tope  |
+| Hang in there!                                  | Tieni duro!                               | ¡Aguantá!, ¡resiste!                 |
+| Have a short fuse                               | Avere la miccia corta                     | Tener la mecha corta                 |
+| Hit the hay / sack                              | Andare a dormire, andare a letto          | Irse a dormir, ir a la cama          |
+| In the fast lane                                | A ritmi serrati                           | A un ritmo rápido                    |
+| In the nick of time                             | All'ultima frazione di secondo            | Justo a tiempo                       |
+| Kill two birds with a stone                     | Prendere due piccioni con una fava        | Matar dos pájaros de un tiro         |
+| Muddy the waters                                | Confondere le acque                       | Confundir las aguas                  |
+| Pardon my French                                | Perdona il francesismo                    | Con perdón de la expresión           |
+| Per se                                          | In sé, di per sé                          | En sí mismo, per se                  |
+| Rule of thumb                                   | Regola generale                           | Regla de oro                         |
+| Rumour has it                                   | Gira voce che                             | Los rumores dicen que                |
+| String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
+| Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
+| Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
+| Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                  |
 
 ##### Collaborations
 
