@@ -6,7 +6,7 @@ A collection of the most common English idioms with their related Italian and Sp
 
 This is what has been collected so far:
 
-| Engish                                          | Italian                                   | Spanish                              |
+| English                                          | Italian                                   | Spanish                              |
 | ------                                          | ------                                    | ------                               |
 | 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
 | A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
