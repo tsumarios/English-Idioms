@@ -42,12 +42,21 @@ This is what has been collected so far:
 | In the fast lane                                | A ritmi serrati                           | A un ritmo rápido                    |
 | In the nick of time                             | All'ultima frazione di secondo            | Justo a tiempo                       |
 | Kill two birds with a stone                     | Prendere due piccioni con una fava        | Matar dos pájaros de un tiro         |
+| Let the cat out of the bag                      | Vuotare il sacco                          | Botonear, irse de la lengua          |
+| Let the chips fall where they may               | Lasciare che il destino faccia il suo corso | Dejar librado a la suerte          |
+| Lose your marbles                               | Dare i numeri, non avere le rotelle a posto | Perder la razón, faltar un tornillo |
 | Muddy the waters                                | Confondere le acque                       | Confundir las aguas                  |
+| Once in a blue moon                             | Una volta ogni morte di papa              | De Pascuas a Ramos, de higos a brevas |
 | Pardon my French                                | Perdona il francesismo                    | Con perdón de la expresión           |
 | Per se                                          | In sé, di per sé                          | En sí mismo, per se                  |
+| Plain as day                                    | Chiaro come il sole                       | Claro como el agua                   |
+| Play second fiddle                              | Stare all'ombra di, avere un ruolo secondario | Estar a la sombra                |
+| Pull yourself together                          | Darsi un contegno, ricomporsi             | Recobrar la compostura               |
+| Put your foot in your mouth                     | Averla detta grossa, fare una gaffe       | Meter la pata                        |
 | Rule of thumb                                   | Regola generale                           | Regla de oro                         |
 | Rumour has it                                   | Gira voce che                             | Los rumores dicen que                |
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
+| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena
 | Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
 | Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
 | Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                  |
