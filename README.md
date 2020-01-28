@@ -11,8 +11,8 @@ This is what has been collected so far:
 | 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
 | A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
 | Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego                  |
-| All hell would break loose                      | Si scatenerebbe l'inferno                 | Todo el infierno se desataría |
-| Bear in mind                                    | Tenere a mente, tenere presente           | Tener en mente que, considerar que |
+| All hell would break loose                      | Si scatenerebbe l'inferno                 | Todo el infierno se desataría        |
+| Bear in mind                                    | Tenere a mente, tenere presente           | Tener en mente que, considerar que   |
 | By the skin of your teeth                       | Per il rotto della cuffia, per un pelo    | Por un pelo                          |
 | Butterflies in the stomach                      | Essere nervoso                            | Estar nervioso                       |
 | Cat got your tongue?                            | Il gatto ti ha mangiato la lingua?        | ¿Te ha comido la lengua el gato?     |
@@ -38,7 +38,7 @@ This is what has been collected so far:
 | Give [sth] a whirl                              | Provare, dare una chance                  | Probar, intentar                     |
 | Go down / up in flames                          | Fallire miseramente, andare in fumo       | Fallar miserablemente, hacerse cenizas |
 | Go the extra mile                               | Fare un ultimo sforzo                     | Romperse el lomo, esforzarse a tope  |
-| Grasp at straws                                 | Arrampicarsi sugli specchi                | Agarrarse a un clavo ardiendo |
+| Grasp at straws                                 | Arrampicarsi sugli specchi                | Agarrarse a un clavo ardiendo        |
 | Hang in there!                                  | Tieni duro!                               | ¡Aguantá!, ¡resiste!                 |
 | Have a short fuse                               | Avere la miccia corta                     | Tener la mecha corta                 |
 | Hit the hay / sack                              | Andare a dormire, andare a letto          | Irse a dormir, ir a la cama          |
@@ -50,7 +50,7 @@ This is what has been collected so far:
 | Lose your marbles                               | Dare i numeri, non avere le rotelle a posto | Perder la razón, faltar un tornillo |
 | Muddy the waters                                | Confondere le acque                       | Confundir las aguas                  |
 | Once in a blue moon                             | Una volta ogni morte di papa              | De Pascuas a Ramos, de higos a brevas |
-| On the loose                                    | A piede libero                            | Suelto/a, sin atar            |
+| On the loose                                    | A piede libero                            | Suelto/a, sin atar                   |
 | Pardon my French                                | Perdona il francesismo                    | Con perdón de la expresión           |
 | Per se                                          | In sé, di per sé                          | En sí mismo, per se                  |
 | Plain as day                                    | Chiaro come il sole                       | Claro como el agua                   |
@@ -59,12 +59,17 @@ This is what has been collected so far:
 | Put your foot in your mouth                     | Averla detta grossa, fare una gaffe       | Meter la pata                        |
 | Rule of thumb                                   | Regola generale                           | Regla de oro                         |
 | Rumour has it                                   | Gira voce che                             | Los rumores dicen que                |
+| Sack [sb]                                       | Dare il benservito a                      | Despedir, echar                      |
+| Sick and tired                                  | Averne abbastanza, essere stufo           | Estar más que harto de, hasta el gorro |
+| Sleep on it                                     | Dormirci sopra                            | Consultar algo con la almohada       |
+| Snug as a bug in a rug                          | Caldo e accogliente, comodo               | Cálido y acogedor                    |
+| Step up your game                               | Cerca di migliorare, stai al passo        | Intenta mejorar, segui el paso      |
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
-| Sure as hell                                    | Sicuro come la morte                      | Ponele la firma               |
-| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena
+| Sure as hell                                    | Sicuro come la morte                      | Ponele la firma                      |
+| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         |
 | Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
 | Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
-| Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                  |
+| Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                   |
 
 ##### Collaborations
 
