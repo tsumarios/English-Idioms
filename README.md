@@ -89,7 +89,7 @@ Some useful resources which have helped to find the meanings and translations of
 
 For any questions, suggetions, corrections, please feel free to contact me:
 
-- Email: mraciti96@gmail.com
+- Email: marioraciti@pm.me
 - LinkedIn: linkedin.com/in/marioraciti
 - Twitter: twitter.com/zMrDevJ
 
