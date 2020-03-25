@@ -9,10 +9,13 @@ This is what has been collected so far:
 | English                                          | Italian                                   | Spanish                              |
 | ------                                          | ------                                    | ------                               |
 | 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
+| À la                                            | Alla maniera di, come                     | A lo                                |
 | A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
 | Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego                  |
 | All hell would break loose                      | Si scatenerebbe l'inferno                 | Todo el infierno se desataría        |
+| Armed to the teeth                              | Armato fino ai denti                      | Armado hasta los dientes            |
 | Bear in mind                                    | Tenere a mente, tenere presente           | Tener en mente que, considerar que   |
+| Break a leg!                                    | In bocca al lupo!                         | ¡Rómpete una pierna!                   |
 | By the skin of your teeth                       | Per il rotto della cuffia, per un pelo    | Por un pelo                          |
 | Butterflies in the stomach                      | Essere nervoso                            | Estar nervioso                       |
 | Cat got your tongue?                            | Il gatto ti ha mangiato la lingua?        | ¿Te ha comido la lengua el gato?     |
@@ -66,6 +69,7 @@ This is what has been collected so far:
 | Step up your game                               | Cerca di migliorare, stai al passo        | Intenta mejorar, segui el paso      |
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
 | Sure as hell                                    | Sicuro come la morte                      | Ponele la firma                      |
+| The elephant in the room (let's address it)     | Tutti lo sanno ma nessuno ne parla        | El elefante en la sala              |
 | The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         |
 | Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
 | Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
