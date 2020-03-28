@@ -10,6 +10,7 @@ This is what has been collected so far:
 | ------                                          | ------                                    | ------                               |
 | 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
 | À la                                            | Alla maniera di, come                     | A lo                                |
+| A leopard can't change its spots, you can't teach an old dog new tricks | Il lupo perde il pelo ma non il vizio | Genio y figura hasta la sepoltura |
 | A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
 | Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego                  |
 | All hell would break loose                      | Si scatenerebbe l'inferno                 | Todo el infierno se desataría        |
@@ -28,7 +29,7 @@ This is what has been collected so far:
 | Down for the count                              | Lasciar perdere, stanco                   | Cansado                              |
 | Draw a blank                                    | Fare un buco nell'acqua, non ricordarsi   | No obtener resultado, quedarse en blanco |
 | Draw the line in the sand / at [sth]            | Prefiggersi di non fare, mettere paletti  | Poner límites, trazar una raya en la arena |
-| Easier said than done                           | Più facile a dirsi che a farsi            | Del dicho al hecho hay un largo trecho |
+| Easier said than done, there's many a slip twixt a cup and lip | Più facile a dirsi che a farsi, Tra il dire e il fare c'è di mezzo il mare | Del dicho al hecho hay un largo trecho |
 | Every cloud has a silver lining                 | C'è sempre un lato positivo               | No hay mal que por bien no venga     |
 | Everything comes with a price                   | Tutto ha un prezzo                        | Todo tiene un precio                 |
 | Fair enough                                     | Ragionabile, vabbé, e sia                 | Está bien, me parece justo           |
@@ -70,7 +71,7 @@ This is what has been collected so far:
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
 | Sure as hell                                    | Sicuro come la morte                      | Ponele la firma                      |
 | The elephant in the room (let's address it)     | Tutti lo sanno ma nessuno ne parla        | El elefante en la sala              |
-| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         |
+| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         | 
 | Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
 | Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
 | Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                   |
