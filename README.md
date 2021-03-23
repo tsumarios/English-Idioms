@@ -96,7 +96,7 @@ For any questions, suggetions, corrections, please feel free to contact me:
 
 - Email: marioraciti@pm.me
 - LinkedIn: linkedin.com/in/marioraciti
-- Twitter: twitter.com/zMrSec
+- Twitter: twitter.com/tsumarios
 
 #### Todos
 
