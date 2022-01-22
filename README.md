@@ -6,20 +6,23 @@ A collection of the most common English idioms with their related Italian and Sp
 
 This is what has been collected so far:
 
-| English                                          | Italian                                   | Spanish                              |
+| English                                         | Italian                                   | Spanish                              |
 | ------                                          | ------                                    | ------                               |
 | 24/7                                            | Tutto il tempo                            | Todo el tiempo                       |
-| À la                                            | Alla maniera di, come                     | A lo                                |
+| A cakewalk / piece of cake, easy peasy          | Un gioco da ragazzi, una passeggiata      | Pan comido                           |
+| À la                                            | Alla maniera di, come                     | A lo                                 |
 | A leopard can't change its spots, you can't teach an old dog new tricks | Il lupo perde il pelo ma non il vizio | Genio y figura hasta la sepoltura |
 | A priori/posteriori                             | A priori/posteriori                       | A priori/En retrospectiva            |
 | Add fuel to the fire                            | Gettare benzina sul fuoco                 | Echar leña al fuego                  |
 | All hell would break loose                      | Si scatenerebbe l'inferno                 | Todo el infierno se desataría        |
-| Armed to the teeth                              | Armato fino ai denti                      | Armado hasta los dientes            |
+| Armed to the teeth                              | Armato fino ai denti                      | Armado hasta los dientes             |
 | Bear in mind                                    | Tenere a mente, tenere presente           | Tener en mente que, considerar que   |
-| Break a leg!                                    | In bocca al lupo!                         | ¡Rómpete una pierna!                   |
+| Break a leg!                                    | In bocca al lupo!                         | ¡Rómpete una pierna!                 |
 | By the skin of your teeth                       | Per il rotto della cuffia, per un pelo    | Por un pelo                          |
 | Butterflies in the stomach                      | Essere nervoso                            | Estar nervioso                       |
 | Cat got your tongue?                            | Il gatto ti ha mangiato la lingua?        | ¿Te ha comido la lengua el gato?     |
+| Collect yourself                                | Riprendersi                               | Recomponerse, serenarse              |
+| Crying over spilled milk                        | Piangere sul latte versato                | A lo hecho pecho, lo pasado pisado   |
 | Crying wolf                                     | Gridare al lupo al lupo                   | Gritar lobo, alarmista               |
 | Cut to the chase!                               | Vai dritto al punto!                      | ¡Ve directo al grano!                |
 | Cut [sb] some slack                             | Essere tollerante                         | No ser tan duro con                  |
@@ -40,21 +43,34 @@ This is what has been collected so far:
 | Get [sth] off your chest                        | Sputare il rospo, confessare              | Desahogarse, sacarse algo de encima  |
 | Give [sb] a taste of his/her/their own medicine | Ripagare con la stessa moneta             | Dar una dosis de su propia medicina  |
 | Give [sth] a whirl                              | Provare, dare una chance                  | Probar, intentar                     |
+| Gloomy / dark side                              | Lato oscuro                               | Lado oscuro                          |
 | Go down / up in flames                          | Fallire miseramente, andare in fumo       | Fallar miserablemente, hacerse cenizas |
 | Go the extra mile                               | Fare un ultimo sforzo                     | Romperse el lomo, esforzarse a tope  |
+| Goof around, fool around                        | Cazzeggiare, fare il buffone              | Bobear                               |
 | Grasp at straws                                 | Arrampicarsi sugli specchi                | Agarrarse a un clavo ardiendo        |
 | Hang in there!                                  | Tieni duro!                               | ¡Aguantá!, ¡resiste!                 |
 | Have a short fuse                               | Avere la miccia corta                     | Tener la mecha corta                 |
+| Hell of a [sth]                                 | Un gran bel                               | Un tremendo                          |
 | Hit the hay / sack                              | Andare a dormire, andare a letto          | Irse a dormir, ir a la cama          |
+| Hit the nail on the head                        | Colpire nel segno, azzeccare              | Dar en el clavo                      |
 | In the fast lane                                | A ritmi serrati                           | A un ritmo rápido                    |
+| In the flesh                                    | In carne e ossa, vivo e vegeto            | En carne y hueso, en persona         |
 | In the nick of time                             | All'ultima frazione di secondo            | Justo a tiempo                       |
+| Rain cats and dogs                              | Piovere a catinelle, a dirotto            | Llover a mares, diluviar             |
 | Kill two birds with a stone                     | Prendere due piccioni con una fava        | Matar dos pájaros de un tiro         |
+| Lay [sth] bare                                  | Mettere a nudo                            | Revelar                              |
 | Let the cat out of the bag                      | Vuotare il sacco                          | Botonear, irse de la lengua          |
 | Let the chips fall where they may               | Lasciare che il destino faccia il suo corso | Dejar librado a la suerte          |
 | Lose your marbles                               | Dare i numeri, non avere le rotelle a posto | Perder la razón, faltar un tornillo |
+| My arse!                                        | Col cavolo!, non ci credo!                | ¡Las pelotas!, no lo creo            |
 | Muddy the waters                                | Confondere le acque                       | Confundir las aguas                  |
+| No skin off my back                           | Per me è uguale, come vuoi, non mi cambia nulla | No es asunto mío, no es de mi incumbencia |
+| Not mince words                                | Non usare giri di parole, non girarci intorno, non avere peli sulla lingua | No tener pelos en la lengua |
 | Once in a blue moon                             | Una volta ogni morte di papa              | De Pascuas a Ramos, de higos a brevas |
 | On the loose                                    | A piede libero                            | Suelto/a, sin atar                   |
+| Out of the blue                                 | Di punto in bianco, all'improvviso        | De la nada, sin avisar               |
+| Out of the box                                  | Fuori dagli schemi                        | Original                             |
+| Painting half the picture                       | Dire le cose a metà                       | Decir las cosas a la mitad           |
 | Pardon my French                                | Perdona il francesismo                    | Con perdón de la expresión           |
 | Per se                                          | In sé, di per sé                          | En sí mismo, per se                  |
 | Plain as day                                    | Chiaro come il sole                       | Claro como el agua                   |
@@ -63,15 +79,20 @@ This is what has been collected so far:
 | Put your foot in your mouth                     | Averla detta grossa, fare una gaffe       | Meter la pata                        |
 | Rule of thumb                                   | Regola generale                           | Regla de oro                         |
 | Rumour has it                                   | Gira voce che                             | Los rumores dicen que                |
+| Running in circles                              | Il cane che si morde la coda              | Ir de acá para allá, ir en círculos  |
 | Sack [sb]                                       | Dare il benservito a                      | Despedir, echar                      |
 | Sick and tired                                  | Averne abbastanza, essere stufo           | Estar más que harto de, hasta el gorro |
 | Sleep on it                                     | Dormirci sopra                            | Consultar algo con la almohada       |
 | Snug as a bug in a rug                          | Caldo e accogliente, comodo               | Cálido y acogedor                    |
-| Step up your game                               | Cerca di migliorare, stai al passo        | Intenta mejorar, segui el paso      |
+| Stand on ceremony                               | Attenersi alle formalità                  | Ser muy ceremonioso                  |
+| Step up your game                               | Cerca di migliorare, stai al passo        | Intenta mejorar, segui el paso       |
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
 | Sure as hell                                    | Sicuro come la morte                      | Ponele la firma                      |
-| The elephant in the room (let's address it)     | Tutti lo sanno ma nessuno ne parla        | El elefante en la sala              |
-| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         | 
+| The elephant in the room (let's address it)     | Tutti lo sanno ma nessuno ne parla        | El elefante en la sala               |
+| The last straw, the straw that breaks the camel's back | L'ultima goccia, goccia che fa traboccare il vaso | Gota que colma el vaso, gota que rebalsa el vaso |
+| The nail in [sb]'s coffin                       | Il chiodo nella bara, ulteriore complicazione | Lo que lleve a alguien a la tumba |
+| The name of the game                            | Nocciolo della questione, ciò che conta   | Quid de la cuestión, meollo del asunto |
+| The juice is worth the squeeze, the game is worth the candle | Il gioco vale la candela     | Vale la pena                         |
 | Under the counter                               | Sottobanco, illegalmente                  | Bajo cuerda, de extranjis            |
 | Without further ado                             | Senza ulteriori indugi                    | Sin más preámbulo                    |
 | Work [sth] around                               | Aggirare il problema, bypassare           | Resolver, esquivar                   |
@@ -82,7 +103,7 @@ _If you want to collaborate by adding another language, you will be welcomed!_
 
 ### Credits
 
-These notes were written with ♥ by [Mario Raciti](https://marioraciti.ml) and this work will remain constantly updated.
+These notes have been written with ♥ by [Mario Raciti](https://marioraciti.ml) and this work will remain constantly updated.
 
 Some useful resources which have helped to find the meanings and translations of the above gathered idioms are:
 
