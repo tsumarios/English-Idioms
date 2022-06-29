@@ -87,7 +87,7 @@ This is what has been collected so far:
 | Stand on ceremony                               | Attenersi alle formalità                  | Ser muy ceremonioso                  |
 | Step up your game                               | Cerca di migliorare, stai al passo        | Intenta mejorar, segui el paso       |
 | String [sb] along                               | Prendere in giro, tenere in sospeso       | Engañar, tener esperando             |
-| Sure as hell                                    | Sicuro come la morte                      | Ponele la firma                      |
+| Sure as hell                                    | Sicuro come la morte                      | Ponele la firma, obvio microbio      |
 | The elephant in the room (let's address it)     | Tutti lo sanno ma nessuno ne parla        | El elefante en la sala               |
 | The last straw, the straw that breaks the camel's back | L'ultima goccia, goccia che fa traboccare il vaso | Gota que colma el vaso, gota que rebalsa el vaso |
 | The nail in [sb]'s coffin                       | Il chiodo nella bara, ulteriore complicazione | Lo que lleve a alguien a la tumba |
