@@ -119,6 +119,11 @@ For any questions, suggetions, corrections, please feel free to contact me:
 - LinkedIn: linkedin.com/in/marioraciti
 - Twitter: twitter.com/tsumarios
 
+_If you want to support me, I would be grateful ❤️_
+
+<a href="https://www.buymeacoffee.com/tsumarios" target="_blank"><img
+        src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40"></a>
+
 #### Todos
 
 - Add the [40 Common English Idioms](https://www.thoughtco.com/common-english-idioms-3211646)
